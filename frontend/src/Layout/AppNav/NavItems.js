@@ -198,7 +198,7 @@ export const Relatorios = [
 export const Usuarios = [
   {
     icon: "pe-7s-car",
-    label: "Usuárioss",
+    label: "Usuários",
     to: "#/charts/chartjs",
   },
 ];
