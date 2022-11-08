@@ -33,16 +33,8 @@ class Nav extends Component {
           className="vertical-nav-menu"
           iconNamePrefix=""
           classNameStateIcon="pe-7s-angle-down"
-        />
-        {/* Usuarios */}
+        />      
 
-        <MetisMenu
-          content={ComponentsNav}
-          activeLinkFromLocation
-          className="vertical-nav-menu"
-          iconNamePrefix=""
-          classNameStateIcon="pe-7s-angle-down"
-        />
         {/* Backup */}
 
         <MetisMenu
